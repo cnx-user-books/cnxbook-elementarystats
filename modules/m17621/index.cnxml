@@ -1,0 +1,52 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Introduction</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e6353811-92f0-4ce8-a37c-0f80ad19fa31</md:uuid>
+</metadata>
+<content>
+    <para id="delete_me">The following modules are based on the award-winning <cite><cite-title>Elementary Statistics</cite-title></cite> online course by authors Barbara Illowsky and Susan Dean.  The content presented here was designed to be used as a complementary resource with their <link document="col10522">Collaborative Statistics</link> textbook/collection.
+
+<note id="idm21600">The source documents for this collection can be found at <link url="http://sofia.fhda.edu/gallery/statistics/index.html">http://sofia.fhda.edu/gallery/statistics/index.html</link>.</note></para><section id="element-957"><title>Course Management</title><para id="element-2342352352">The <link document="m17579">Course Syllabus</link> provides instructors a basic framework for teaching this material to their students. Thi document is intended to serve as a starting point; instructors should use this document as a foundation for creating a learning experience customized to meet their students unique needs. </para></section><section id="element-893"><title>Video Lectures</title>
+<para id="element-508">As a part of their <link url="http://sofia.fhda.edu/gallery/statistics/index.html">award-winning online course</link>, the authors have provided a number of video lectures.  These half-hour segments can be used for self-study or as a complement to the <link document="col10522">Collaborative Statistics</link> textbook.  The authors also provide videos instructing students on the use of the TI-83 calculator as used in the textbook and course activities and exercises.
+</para><list id="element-82" list-type="bulleted"><title>Lecture Videos</title><item><link document="m17561">Chapter 1: Sampling and Data</link></item>
+<item><link document="m17562">Chapter 2: Descriptive Statistics</link></item>
+<item><link document="m17563">Chapter 3: Probability Topics</link></item>
+<item><link document="m17565">Chapter 4: Discrete Distributions</link></item>
+<item><link document="m17566">Chapter 5: Continuous Random Variables</link></item>
+<item><link document="m17567">Chapter 6: The Normal Distribution</link></item>
+<item><link document="m17568">Chapter 7: The Central Limit Theorem</link></item>
+<item><link document="m17569">Chapter 8: Confidence Intervals</link></item>
+<item><link document="m17570">Chapter 9: Hypothesis Testing - Single Mean and Single Proportion</link></item>
+<item><link document="m17577">Chapter 10: Hypothesis Testing - Two Means, Two Proportions, Paired Data</link></item>
+<item><link document="m17571">Chapter 11: The Chi-Square Distribution</link></item>
+<item><link document="m17572">Chapter 12: Linear Regression and Correlation</link></item></list><list id="element-419" list-type="bulleted"><title>TI-83 Calculator Video Tutorials</title><item><link document="m17574">TI-83 Calculator Tutorial, Part 1</link></item>
+<item><link document="m17575">TI-83 Calculator Tutorial, Part 2</link></item></list></section><section id="element-732"><title>Practice Exams, Problem Sets, and Quizzes</title>
+<para id="element-447">A number of practice tests and problem sets are provided for student self-evaluation and to provide opportunities for students to practice key concepts introduced throughout the course.  Solutions to these exercises are provided as feedback to aid student retention and understanding.  These problem sets may be used as homework assignments or self-directed study aids.
+</para>
+
+
+<list id="element-724" list-type="bulleted"><title>Skills Practice Exams</title><item><link document="m17618">Skills Practice Exam 1: Chapters 1, 2, &amp; 12</link></item>
+<item><link document="m17619">Skills Practice Exam 2: Chapters 3, 4, 5, &amp; 6</link></item>
+<item><link document="m17620">Skills Practice Exam 3: Chapters 7, 8, 9, &amp; 10</link></item></list><list id="element-773" list-type="bulleted"><title>Practice Final Exams</title><item><link document="m17600">Practice Final Exam 1: Chapters 1 &amp; 2</link></item>
+<item><link document="m17613">Practice Final Exam 2: Chapters 3 &amp; 4</link></item>
+<item><link document="m17614">Practice Final Exam 3: Chapters 5, 6, &amp; 7</link></item>
+<item><link document="m17616">Practice Final Exam 4: Chapters 8, 9, &amp; 10</link></item>
+<item><link document="m17615">Practice Final Exam 5: Chapter 11</link></item>
+<item><link document="m17617">Practice Final Exam 6: Chapter 12</link></item></list><para id="element-625">In addition to the problem sets provided above, the following multiple-choice quizzes are provided as resources for instructors.   These modules can be used as assignments or as templates for classroom assessments.  Answers to these items are not provided.</para>
+
+<list id="element-936" list-type="bulleted"><title>Quizzes</title><item><link document="m17601">Chapter 1: Sampling and Data</link></item>
+<item><link document="m16311">Chapter 2: Descriptive Statistics</link></item>
+<item><link document="m17602">Chapter 3: Probability Topics</link></item>
+<item><link document="m17603">Chapter 4: Discrete Distributions</link></item>
+<item><link document="m17604">Chapter 5: Continuous Random Variables</link></item>
+<item><link document="m17605">Chapter 6: The Normal Distribution</link></item>
+<item><link document="m17606">Chapter 7: The Central Limit Theorem</link></item>
+<item><link document="m17607">Chapter 8: Confidence Intervals</link></item>
+<item><link document="m17609">Chapter 9: Hypothesis Testing - Single Mean and Single Proportion</link></item>
+<item><link document="m17610">Chapter 10: Hypothesis Testing - Two Means, Two Proportions, Paired Data</link></item>
+<item><link document="m17611">Chapter 11: The Chi-Square Distribution</link></item>
+<item><link document="m17612">Chapter 12: Linear Regression and Correlation</link></item></list></section><section id="element-789"><title>Calculator Instructions</title>
+<para id="element-147">The following module contains a number of resources related to the TI-83 calculator and ways it can be used with the <link document="col10522">Collaborative Statistics</link> textbook and curriculum.  This resource addresses many different function on the calculator, including calculation of the outliers, discrete mean, standard deviation, and random numbers.
+</para><list id="element-574" list-type="bulleted"><item><link document="m17581">View the TI-83 Calculator Resources</link></item></list></section>   
+  </content>
+  
+</document>

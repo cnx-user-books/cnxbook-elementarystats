@@ -1,0 +1,72 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:m="http://www.w3.org/1998/Math/MathML" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Exam 5: Lesson 11</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>e99273fe-0471-40c3-830d-bf8ef60c1a0a</md:uuid>
+</metadata>
+  <content>
+    <exercise id="element-603"><problem id="idp3217024">
+  <para id="element-427">
+Suppose the random variable X follows a chi-square distribution with degrees of freedom equal to 35. Fill in the blanks.
+  </para>	<list id="element-0fs2" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label><m:math><m:mi>m</m:mi><m:mo>=</m:mo></m:math></item>
+	<item><label>B</label><m:math><m:mi>s</m:mi><m:mo>=</m:mo></m:math></item>
+	</list>
+</problem>
+
+<solution id="idm11571888">
+ <para id="element-924">
+    A. 35
+  </para>
+<para id="element-203432">
+B. 8.3666
+</para>
+</solution>
+</exercise><exercise id="element-34"><problem id="idm10507104">
+  <para id="element-864">
+Check all that apply.
+  </para>	<list id="element-0" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>The chi-square graph always has the same shape.</item>
+	<item><label>B</label>If X follows a chi-square distribution with df = 200, then X approximately follows a normal distribution.</item>
+	<item><label>C</label>The chi-square distribution is skewed to the right if the degrees of freedom are less than 90.</item>
+	<item><label>D</label>The test statistic for the chi-square distribution may be zero.</item>
+<item><label>E</label>A goodness-of-fit hypothesis test is always right-tailed.</item>
+<item><label>F</label>A test of independence tests whether two factors are independent or not.</item></list>
+</problem>
+
+<solution id="idm9823632">
+  <para id="element-757">
+    B, C, D, and F
+  </para>
+</solution>
+</exercise><exercise id="element-827"><problem id="idp6326640">
+  <para id="element-138">
+   Write the null and alternate hypotheses for the following:
+  </para>
+<para id="element-234235">
+It is believed that public high school students attend school in equal numbers for each day of the school week. Suppose a sample of the days students were present at school was taken for one particular high school:
+</para>
+<list id="element-995" list-type="bulleted"><item>1750 students were present on Monday</item>
+<item>1800 students were present on Tuesday</item>
+<item>1840 students were present on Wednesday</item>
+<item>1810 students were present on Thursday</item>
+<item>1800 students were present on Friday</item></list>
+
+<para id="element-3242">
+Ho:
+</para>
+<para id="element-234253239486">
+Ha: 
+</para>
+</problem>
+
+<solution id="idm2499792">
+  <para id="element-810">
+Ho: Public high school students attend school in equal numbers for each day of the school week
+  </para>
+<para id="element-234235235">
+Ha: Public high school students DO NOT attend school in equal numbers for each day of the school week
+</para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>

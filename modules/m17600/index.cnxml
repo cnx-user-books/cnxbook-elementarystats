@@ -1,0 +1,390 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Exam 1: Lessons 1 &amp; 2</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>2e6fb05d-2315-4953-8b9d-eb6a2eb55a84</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me"><title>Questions 1 – 2 refer to the following:</title>A sample of 56 employees was taken to determine average pulse rate. The data is in the table below:</para>
+
+<table id="element-812" summary="Two column table, with first column listing the pulse beats recorded in beats per minute, and the second column showing the number of employees who had that pulse rate. ">
+
+<tgroup cols="2">
+<colspec colnum="1" colname="c1"/>
+<colspec colnum="2" colname="c2"/>
+        <thead>
+          <row>
+            <entry>Pulse Rate (beats per minute)</entry>
+            <entry>Frequency (# of employees)</entry>
+          </row>
+        </thead>
+
+        <tbody>
+          
+          <row>
+            <entry>54</entry>
+            <entry>1</entry>
+          </row>
+          <row>
+            <entry>58</entry>
+            <entry>4</entry>
+          </row>
+          <row>
+            <entry>65</entry>
+            <entry>7</entry>
+          </row>
+          <row>
+            <entry>68</entry>
+            <entry>9</entry>
+          </row>
+          <row>
+            <entry>72</entry>
+            <entry>10</entry>
+          </row>
+          <row>
+            <entry>76</entry>
+            <entry>4</entry>
+          </row>
+          <row>
+            <entry>80</entry>
+            <entry>10</entry>
+          </row>
+          <row>
+            <entry>84</entry>
+            <entry>6</entry>
+          </row>
+          <row>
+            <entry>90</entry>
+            <entry>3</entry>
+          </row>
+          <row>
+            <entry>98</entry>
+            <entry>2</entry>
+          </row>
+        </tbody>
+      
+
+
+
+</tgroup>
+</table>
+
+<exercise id="element-83"><problem id="idm8483440">
+  <para id="element-193">
+   
+    The mode(s) is/are:
+  </para><list id="element-0da" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>74</item>
+<item><label>B</label>72 and 80</item>
+<item><label>C</label>68</item>
+<item><label>D</label>the average of 72 and 80</item></list>
+</problem>
+
+<solution id="idm2560368">
+  <para id="element-782">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-559"><problem id="idm14933280">
+  <para id="element-491">
+    The variable is:
+  </para><list id="element-0dfd" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>the number of employees</item>
+<item><label>B</label>all employees</item>
+<item><label>C</label>the average pulse rate for the 56 employees</item>
+<item><label>D</label>the pulse rate of one employee</item></list>
+</problem>
+
+<solution id="idm2952448">
+  <para id="element-39">
+    D
+  </para>
+</solution>
+</exercise><para id="element-827"><title>Questions 3 – 5 refer to the following:</title>The table below shows the ages of 50 senior citizens who attend a local senior center.</para>
+
+<table id="element-162" summary="An incomplete table showing the age of attendees, frequency, relative frequency, and cumulative relative frequency of occurrence.  The empty cells are left blank intentionally as a part of the exercise, including the last column which is completely blank except for the last row. ">
+
+<tgroup cols="4">
+        <colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+        <thead>
+          <row>
+            <entry>Age</entry>
+            <entry>Frequency</entry>
+            <entry>Relative Freq.</entry>
+            <entry>Cum. Rel. Freq.</entry>
+          </row>
+</thead>
+<tbody>
+          
+          <row>
+            <entry>56</entry>
+            <entry>9</entry>
+            <entry>0.18</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>63</entry>
+            <entry>8</entry>
+            <entry/>
+            <entry/>
+          </row>
+          <row>
+            <entry>68</entry>
+            <entry>17</entry>
+            <entry>0.36</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>73</entry>
+            <entry>8</entry>
+            <entry>0.16</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>80</entry>
+            <entry>5</entry>
+            <entry>0.10</entry>
+            <entry/>
+          </row>
+          <row>
+            <entry>88</entry>
+            <entry>2</entry>
+            <entry>0.04</entry>
+            <entry>1.00</entry>
+          </row>
+        </tbody>
+      
+
+
+</tgroup>
+</table><exercise id="element-987"><problem id="idp3437328">
+  <para id="element-565">
+      Find the IQR. 
+  </para><list id="element-0fdd" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>0.5</item>
+<item><label>B</label>17</item>
+<item><label>C</label>10</item>
+<item><label>D</label>not enough information</item></list>
+</problem>
+
+<solution id="idp25168">
+  <para id="element-165">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-492"><problem id="idm8731600">
+  <para id="element-947">
+   Which interval has the smallest percentage of data? 
+  </para><list id="element-0dq" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>The interval 55.5 to 63.5.</item>
+<item><label>B</label>The interval 63.5 to 68.5.</item>
+<item><label>C</label>The interval 68.5 to 73.5.</item>
+<item><label>D</label>The interval 73.5 to 88.5.</item></list>
+</problem>
+
+<solution id="idm1441840">
+  <para id="element-798">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-65"><problem id="idm5369600">
+  <para id="element-801">
+   What percent of the ages are at most 68? 
+  </para><list id="element-0e2" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>36</item>
+<item><label>B</label>70</item>
+<item><label>C</label>30</item>
+<item><label>D</label>66</item></list>
+</problem>
+
+<solution id="idp3084912">
+  <para id="element-821">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-353"><problem id="idp3037424">
+  <para id="element-900">
+   What can be said about a set of data when its standard deviation is zero?
+  </para><list id="element-0aa" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>If the data are ordered, they are very spread out from the mean. </item>
+<item><label>B</label>All of the data appear with the same frequency.</item>
+<item><label>C</label>If the data are ordered, they are very close to but different from the mean.</item>
+<item><label>D</label>There is no mode.</item></list>
+</problem>
+
+<solution id="idm3216240">
+  <para id="element-898">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-803"><problem id="idm2175072">
+  <para id="element-38">For the following data, which measure of central tendency would be the LEAST useful? Data:</para>
+  <para id="prob7datapara"><list id="prob7data" list-type="labeled-item" display="inline">
+          <item>4</item>
+          <item>8</item>
+          <item>11</item>
+          <item>11</item>
+          <item>11</item>
+          <item>27</item>
+          <item>27</item>
+          <item>27</item>
+          <item>27</item>
+          <item>27</item>
+          <item>1000</item>
+        </list>
+  </para>
+
+<list id="element-0cva" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>mean</item>
+<item><label>B</label>median</item>
+<item><label>C</label>mode</item>
+<item><label>D</label>standard deviation</item></list>
+</problem>
+
+<solution id="idp5046944">
+  <para id="element-719">
+    A
+  </para>
+</solution>
+</exercise><para id="element-125"><title>Questions 8 – 10 refer to the following:</title>Sixty (60) college students were asked the number of units they are taking this quarter. The results are given in the following graph:
+  </para><para id="element-274"><media id="idm35648" alt="Number of units taken graphed against the relative frequency of that answer. The relative frequency of 10 units is 0.1, the relative frequency of 11 units is 0.5, the relative frequency of 12 units is 0.2, the relative frequency of 13 units is 0.1, the relative frequency of 14 units is 0.05, the relative frequency of 15 units is 0.0, and the relative frequency of 16 units is 0.15."><image src="../../media/graph.png" mime-type="image/png"/></media></para><exercise id="element-949"><problem id="idm6432704">
+  <para id="element-419">
+   The number of responses that were “12” OR “13” is approximately:
+  </para><list id="element-0" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>18</item>
+<item><label>B</label>0.3</item>
+<item><label>C</label>25</item>
+<item><label>D</label>Not enough information</item></list>
+</problem>
+
+<solution id="idm1834352">
+  <para id="element-121">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-994"><problem id="idp4442288">
+  <para id="element-409">
+    The third quartile is:
+  </para><list id="element-dad0" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>15</item>
+<item><label>B</label>14</item>
+<item><label>C</label>13</item>
+<item><label>D</label>12</item></list>
+</problem>
+
+<solution id="idp6250400">
+  <para id="element-344">
+    C
+  </para>
+</solution>
+</exercise><table id="element-668" summary="A table showing the number of videos, and the frequency, relative frequency, and cumulative relative frequency of each. Many cells are filled with question marks, including the entire last column. ">
+
+<tgroup cols="4"><colspec colnum="1" colname="c1"/>
+        <colspec colnum="2" colname="c2"/>
+        <colspec colnum="3" colname="c3"/>
+        <colspec colnum="4" colname="c4"/>
+<thead>
+ <row>
+            <entry># of Videos</entry>
+            <entry>Frequency</entry>
+            <entry>Relative Frequency</entry>
+            <entry>Cum. Rel. Freq.</entry>
+          </row>
+</thead>        <tbody>
+         
+          <row>
+            <entry>0</entry>
+            <entry>18</entry>
+            <entry>0.29</entry>
+            <entry>?</entry>
+          </row>
+          <row>
+            <entry>1</entry>
+            <entry>26</entry>
+            <entry>0.41</entry>
+            <entry>?</entry>
+          </row>
+          <row>
+            <entry>2</entry>
+            <entry>?</entry>
+            <entry>?</entry>
+            <entry>?</entry>
+          </row>
+          <row>
+            <entry>3</entry>
+            <entry>6</entry>
+            <entry>?</entry>
+            <entry>?</entry>
+          </row>
+          <row>
+            <entry>4</entry>
+            <entry>1</entry>
+            <entry>?</entry>
+            <entry>?</entry>
+          </row>
+        </tbody>
+      
+
+</tgroup>
+</table><exercise id="element-702"><problem id="idm3652288">
+  <para id="element-536">
+    The sample from the table above was taken by randomly selecting one student from the administration’s official list of students and then choosing every 100th. This is an example of what kind of sampling?
+  </para><list id="element-0sdf1" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>cluster</item>
+<item><label>B</label>systematic</item>
+<item><label>C</label>stratified</item>
+<item><label>D</label>convenience</item></list>
+</problem>
+
+<solution id="idp231088">
+  <para id="element-346">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-847"><problem id="idp3941600">
+  <para id="element-36">
+    How should you classify data from the following question: What is your blood pressure?
+  </para><list id="element-0fsf2" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>qualitative</item>
+<item><label>B</label>quantitative – discrete</item>
+<item><label>C</label>quantitative – continuous</item></list>
+</problem>
+
+<solution id="idp4099456">
+  <para id="element-66">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-377"><problem id="idp5069648">
+  <para id="element-412">
+    How should you classify data from the following question: What is your favorite vacation place?
+  </para><list id="element-0caa" list-type="labeled-item" mark-suffix="."><item><label>A</label>qualitative</item>
+<item><label>B</label>quantitative – discrete</item>
+<item><label>C</label>quantitative – continuous</item></list>
+</problem>
+
+<solution id="idp2156064">
+  <para id="element-697">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-700"><problem id="idm2514272">
+  <para id="element-739">
+A study is done to determine the average amount of tuition all San Jose State undergraduate students pay per semester. A sample of 100 undergraduate San Jose State students is taken by dividing the students into freshmen, sophomore, junior, and senior years and selecting 25 students from each. Each student is asked how much tuition he/she paid for the Spring 2002 semester. The type of sampling and the parameter are:
+  </para><list id="element-0af3" list-type="labeled-item" mark-suffix=".">
+<item><label>A</label>cluster and the average amount of tuition all San Jose State students paid Spring 2002.</item>
+<item><label>B</label>stratified and the average amount of tuition the 100 San Jose State students paid Spring 2002.</item>
+<item><label>C</label>cluster and the average amount of tuition the 100 San Jose State students paid Spring 2002.</item>
+<item><label>D</label>stratified and the average amount of tuition all San Jose State students paid Spring 2002.</item></list>
+</problem>
+
+<solution id="idp5068608">
+  <para id="element-569">
+    D
+  </para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>

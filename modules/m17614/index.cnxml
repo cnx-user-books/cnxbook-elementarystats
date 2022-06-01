@@ -1,0 +1,210 @@
+<document xmlns="http://cnx.rice.edu/cnxml" xmlns:md="http://cnx.rice.edu/mdml">
+  <title>Elementary Statistics: Exam 3: Lessons 5, 6 &amp; 7</title>
+  <metadata><md:content-id>undefined</md:content-id><md:title/><md:uuid>573863d3-e13d-4976-9408-7e040d3c9653</md:uuid>
+</metadata>
+  <content>
+    <para id="delete_me"><title>Questions 1 – 3 refer to the following:</title>Assume the amount of money seventh–grade students spend on food each day at school is exponentially distributed with an average of $2.50. </para><exercise id="element-193"><problem id="idm3328032">
+  <para id="element-988">
+   Which graph best describes the distribution?
+  </para>	<list id="element-0da" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label><media id="idm13239472" alt="An exponentially decreasing function in the first quadrant. The function crosses the y-axis at 2.5 and nears the x-axis at 1/2.5"><image src="../../media/exam 3_1a.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>B</label><media id="idm4064848" alt="An exponentially decreasing function in the first quadrant. The function crosses the y-axis at 1/2.5 and nears the x-axis at 2.5"><image src="../../media/exam 3_1b.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>C</label><media id="idp734960" alt="An exponentially decreasing function in the first quadrant. The function crosses the y-axis at 2.5 and nears the x-axis at 2.5"><image src="../../media/exam 3_1c.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>D</label><media id="idm5938112" alt="An exponentially decreasing function in the first quadrant. The function crosses the y-axis at 1/2.5 and nears the x-axis at 1/2.5"><image src="../../media/exam 3_1d.JPG" mime-type="image/jpeg"/></media></item></list>
+</problem>
+
+<solution id="idm18389520">
+  <para id="element-301">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-630"><problem id="idm12895680">
+  <para id="element-875">Find the probability that a randomly selected seventh–grade student spends less than $4 a day on food.
+  </para>	<list id="element-0dsq" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0.7981</item>
+	<item><label>B</label>0.2019</item>
+	<item><label>C</label>0.9999</item>
+	<item><label>D</label>0.0001</item></list>
+</problem>
+
+<solution id="idm10781824">
+  <para id="element-121">
+    A
+  </para>
+</solution>
+</exercise><exercise id="element-492"><problem id="idm19001136">
+  <para id="element-192">85% of the seventh–grade students spend more than what amount per day?
+  </para>	<list id="element-0dadq" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>$2.12</item>
+	<item><label>B</label>$0.75</item>
+	<item><label>C</label>$4.74</item>
+	<item><label>D</label>$0.41</item></list>
+</problem>
+
+<solution id="idm11168752">
+  <para id="element-243">
+    D
+  </para>
+</solution>
+</exercise><para id="element-519"><title>Questions 4 – 5 refer to the following:</title>The amount of time that intermediate algebra students at Leland High School spend doing their homework per day is normally distributed with a mean 1.5 hours and standard deviation 0.75 hours.</para><exercise id="element-398"><problem id="idm8000592">
+  <para id="element-656">
+If one student is randomly chosen, what is the probability that the student does intermediate algebra homework at least 2 hours per day?
+  </para>	<list id="element-0d13" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0.7475</item>
+	<item><label>B</label>0.4259</item>
+	<item><label>C</label>0.2525</item>
+	<item><label>D</label>0.6784</item></list>
+</problem>
+
+<solution id="idm10416">
+  <para id="element-41">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-617"><problem id="idm345888">
+  <para id="element-26">
+    60% of these students spend at most how many hours doing their homework?
+  </para>	<list id="element-0f242" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>1.69 hours</item>
+	<item><label>B</label>1.31 hours</item>
+	<item><label>C</label>1.5 hours</item>
+	<item><label>D</label>0.2533 hours</item></list>
+</problem>
+
+<solution id="idm1204480">
+  <para id="element-352">
+    A
+  </para>
+</solution>
+</exercise><para id="element-508"><title>Questions 6 – 7 refer to the following:</title>Llamas are excellent pack animals. It is known that the weight of supplies carried by llamas follows a normal distribution with a mean of 62.5 pounds and a standard deviation of 6 pounds.</para><exercise id="element-584"><problem id="idp624416">
+  <para id="element-411">
+    Find the probability that the weight of supplies carried by one randomly chosen llama is between 60 and 70 pounds.
+  </para>	<list id="element-0d11w" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0.4441</item>
+	<item><label>B</label>0.5559</item>
+	<item><label>C</label>0.8944</item>
+	<item><label>D</label>1</item></list>
+</problem>
+
+<solution id="idm3384992">
+  <para id="element-749">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-173"><problem id="idm8434928">
+  <para id="element-781">The middle 50% of weights of supplies carried by a randomly chosen llama is between _____ and _____.
+  </para>	<list id="element-0dd1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0 and 62.5 pounds</item>
+	<item><label>B</label>58.45 and 66.55 pounds</item>
+	<item><label>C</label>56.5 and 68.5 pounds</item>
+	<item><label>D</label>There is not enough information given.</item></list>
+</problem>
+
+<solution id="idm5110432">
+  <para id="element-893">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-581"><problem id="idm3267424">
+  <para id="element-907">
+Which of the following are true for the normal distribution?
+  </para>
+
+	
+<list id="element-177" list-type="labeled-item" mark-suffix=".">
+<item><label>I</label>More values fall close to the mean than fall far away from the mean.</item>
+<item><label>II</label>The mean and standard deviation cannot be the same.</item>
+<item><label>III</label>A change in µ causes the graph to shift to the left or right and changes the shape of the graph.</item>
+<item><label>IV</label>A change in s causes a change in the shape of the normal curve.</item></list><list id="element-0da1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>I, IV</item>
+	<item><label>B</label>I, II, III, IV</item>
+	<item><label>C</label>I, II, III</item>
+	<item><label>D</label>III, IV</item></list>
+</problem>
+
+<solution id="idm9492736">
+  <para id="element-521">
+    A
+  </para>
+</solution>
+</exercise><para id="element-814"><title>Questions 9 – 13 refer to the following:</title>The length of time junior high school students sleep per night follows an approximate uniform distribution from seven to eleven hours. Suppose we randomly select a junior high student.</para><exercise id="element-234"><problem id="idm8000240">
+  <para id="element-803">
+Find the probability that the randomly selected student sleeps less than 8 1/2 hours per night.
+  </para>	<list id="element-0fs21" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>.2143</item>
+	<item><label>B</label>0.7727</item>
+	<item><label>C</label>0.4705</item>
+	<item><label>D</label>0.375</item></list>
+</problem>
+
+<solution id="idm7710800">
+  <para id="element-8">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-427"><problem id="idm5235776">
+  <para id="element-615">
+Find the probability that the randomly selected student sleeps eight to twelve hours per night.
+  </para>	<list id="element-0da1d" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>0</item>
+	<item><label>B</label>1</item>
+	<item><label>C</label>0.75</item>
+	<item><label>D</label>0.25</item></list>
+</problem>
+
+<solution id="idm867264">
+  <para id="element-592">
+    C
+  </para>
+</solution>
+</exercise><exercise id="element-677"><problem id="idm5628336">
+  <para id="element-772">
+On average, how long does a junior high school student sleep per night?
+  </para>	<list id="element-0dsf1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>.2143</item>
+	<item><label>B</label>0.7727</item>
+	<item><label>C</label>0.4705</item>
+	<item><label>D</label>0.375</item></list>
+</problem>
+
+<solution id="idm4319664">
+  <para id="element-947">
+    B
+  </para>
+</solution>
+</exercise><exercise id="element-284"><problem id="idm7762736">
+  <para id="element-809">
+On average, how long does a junior high school student sleep per night?
+  </para>	<list id="element-0fvqa1" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label>9.6 hours</item>
+	<item><label>B</label>6.5 hours</item>
+	<item><label>C</label>7.8 hours</item>
+	<item><label>D</label>8.4 hours</item></list>
+</problem>
+
+<solution id="idm5403792">
+  <para id="element-598">
+    D
+  </para>
+</solution>
+</exercise><exercise id="element-440"><problem id="idm3185296">
+  <para id="element-886">
+We are interested in the probability that a randomly selected student sleeps less than eight hours, knowing that he/she sleeps less than ten. Which graph best depicts this situation?
+  </para>	<list id="element-0dsa" list-type="labeled-item" mark-suffix=".">
+	<item><label>A</label><media id="idm4357936" alt="A rectangular block reaching on the x-axis from 7 to 12, and on the y-axis from 0 to 1/5. The section from 7 to 8 on the x-axis is shaded in."><image src="../../media/exam 3_13a.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>B</label><media id="idm11079184" alt="A rectangular block reaching on the x-axis from 7 to 12, and on the y-axis from 0 to 1/5. The section from 8 to 11 on the x-axis is shaded in."><image src="../../media/exam 3_13b.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>C</label><media id="idm7405568" alt="A rectangular block reaching on the x-axis from 7 to 10, and on the y-axis from 0 to 1/3. The section from 7 to 8 on the x-axis is shaded in."><image src="../../media/exam 3_13c.JPG" mime-type="image/jpeg"/></media></item>
+	<item><label>D</label><media id="idm2789152" alt="A rectangular block reaching on the x-axis from 7 to 10, and on the y-axis from 0 to 1/3. The section from 9 to 11 on the x-axis is shaded in."><image src="../../media/exam 3_13d.JPG" mime-type="image/jpeg"/></media></item>
+
+</list>
+</problem>
+
+<solution id="idm1317712">
+  <para id="element-923">
+    C
+  </para>
+</solution>
+</exercise>   
+  </content>
+  
+</document>
