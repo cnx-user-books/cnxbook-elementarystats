@@ -1,3 +1,18 @@
-<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course">  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">  <md:content-id>col11263</md:content-id>  <md:title>ElementaryStats</md:title>      <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>  <md:language>en</md:language>              <md:uuid>87eef3c7-c20d-4fc5-8a97-44e4cc940f74</md:uuid>
-<md:slug>elementarystats</md:slug>
-</metadata>  <col:content>          <col:module document="m17621"/>                            <col:module document="m17613"/>                            <col:module document="m17615"/>                            <col:module document="m17600"/>                            <col:module document="m17614"/>                    </col:content></col:collection>
+<?xml version="1.0"?>
+<col:collection xmlns="http://cnx.rice.edu/collxml" xmlns:col="http://cnx.rice.edu/collxml" xml:lang="en" type="Course" authors="Rajiv Grover">
+  <metadata xmlns:md="http://cnx.rice.edu/mdml" mdml-version="0.5">
+    <md:content-id>col11263</md:content-id>
+    <md:title>ElementaryStats</md:title>
+    <md:license url="http://creativecommons.org/licenses/by/3.0/">Creative Commons Attribution License 3.0</md:license>
+    <md:language>en</md:language>
+    <md:uuid>87eef3c7-c20d-4fc5-8a97-44e4cc940f74</md:uuid>
+    <md:slug>elementarystats</md:slug>
+  </metadata>
+  <col:content>
+    <col:module document="m17621"/>
+    <col:module document="m17613"/>
+    <col:module document="m17615"/>
+    <col:module document="m17600"/>
+    <col:module document="m17614"/>
+  </col:content>
+</col:collection>
